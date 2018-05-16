@@ -1,9 +1,8 @@
 {
   "name": "node_express_core",
   "version": "1.0.0",
-  "private": true,
-  "description": "Express tutorials",
-  "main": " expresstuts.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/reygie25/node_express_core.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/reygie25/node_express_core/issues"
   },
-  "homepage": "https://github.com/reygie25/node_express_core#readme"
+  "homepage": "https://github.com/reygie25/node_express_core#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
